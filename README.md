@@ -10,20 +10,28 @@ Vortex is a lightweight and customizable PHP webshell that provides an intuitive
 
 - Simple and easy-to-use interface
 - execute commands in directory
+- shows shell errors
 - saves partial history
 - automatic reverse shell
 - automatic linPEAS install
 - server information
 - file upload
+
 ## Installation
 
-To install Vortex on your server, simply copy the php file from [this link] https://github.com/bear102/Vortex/blob/main/vortex.php and upload it to the server's web directory.
+To install Vortex on your server, simply copy the php file from [this link](https://github.com/bear102/Vortex/blob/main/vortex.php) and upload it to the server's web directory.
 
 Next, navigate to the webshell URL in your browser and you should see the Vortex interface.
 
 ## Usage
 
-Using Vortex is easy. Simply type in a command in the prompt and hit enter. 
+Using the terminal in Vortex is easy. Simply type in a command in the prompt and hit enter. If you want to execute the command inside of a specific directory, fill out the execute in directory box and hit enter.
+
+To test for a reverse shell connection, put in your ip and port and hit execute. The code should automatically run the commands. Make sure you have your listener set up properly.
+
+To install linpeas, simpily click the photo and linpeas will try to install itself as well as chmod. After it is complete, you can start a reverse shell and navigate to the temporary directory that it created. From there you can do ./linpeas.sh to run linPEAS.
+
+To upload a file, click the browse button and selected the desired file. Then hit upload. Vortex will attempt to upload your file into the current directory Vortex is running in. 
 
 ## Contributing
 
