@@ -12,7 +12,7 @@ Vortex is a lightweight and customizable PHP webshell that provides an intuitive
 - automatic linPEAS install
 - server information
 - file upload
-https://github.com/bear102/Vortex/blob/main/img/vortex.png
+![Vortex](https://github.com/bear102/Vortex/blob/main/img/vortex.png)
 ## Installation
 
 To install Vortex on your server, simply copy the php file from [this link] https://github.com/bear102/Vortex/blob/main/vortex.php and upload it to the server's web directory.
