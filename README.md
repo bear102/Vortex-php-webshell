@@ -27,7 +27,7 @@ To install Vortex onto a server, simply copy the php file from [this link](https
 
 Next, navigate to the webshell URL in your browser and you should see the Vortex interface.
 
-\n\n\n
+<br><br>
 
 
 ## Usage
