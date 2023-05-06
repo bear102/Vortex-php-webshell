@@ -25,13 +25,17 @@ Next, navigate to the webshell URL in your browser and you should see the Vortex
 
 ## Usage
 
+**Command Execution**
 Using the terminal in Vortex is easy. Simply type in a command in the prompt and hit enter. If you want to execute the command inside of a specific directory, fill out the execute in directory box and hit enter.
 
-To test for a reverse shell connection, put in your ip and port and hit execute. The code should automatically run the commands. Make sure you have your listener set up properly.
+**Reverse Shell Connection**
+To test for a reverse shell connection, put in your ip and port and hit execute. The code should automatically try tp execute many reverse shell commands until one works. Make sure you have your listener set up properly.
 
-To install linpeas, simpily click the photo and linpeas will try to install itself as well as chmod. After it is complete, you can start a reverse shell and navigate to the temporary directory that it created. From there you can do ./linpeas.sh to run linPEAS.
+**LinPEAS Installation**
+To install linpeas, simpily click the photo and linpeas will try to install itself as well as chmod +x the file. After it is complete, you can start a reverse shell and navigate to the temporary directory that it created. From there you can do ./linpeas.sh to run linPEAS.
 
-To upload a file, click the browse button and selected the desired file. Then hit upload. Vortex will attempt to upload your file into the current directory Vortex is running in. 
+**File Upload**
+To upload a file, click the browse button and selected the desired file. Then hit upload. Vortex will attempt to upload your file into the current directory Vortex is running in.
 
 ## Contributing
 
