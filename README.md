@@ -2,9 +2,9 @@
 
 
 Vortex is a versatile and easy-to-use PHP webshell that allows remote execution of system commands. Its customizable and lightweight design provides a clean and intuitive interface for performing a variety of pentesting commands. With Vortex, users can efficiently and securely navigate through the server file system, test for reverse shell connections, install linPEAS, upload files, and much more.
-
+<br>
 <img width="681" alt="vortex" src="https://user-images.githubusercontent.com/58755251/236601239-b2352905-f3f7-4bfa-bae5-59634e72c170.png">
-
+<br>
 
 ## Features
 
@@ -18,7 +18,7 @@ Vortex is a versatile and easy-to-use PHP webshell that allows remote execution 
 - running application information
 - file upload
 
-
+<br>
 
 
 ## Installation
@@ -27,8 +27,7 @@ To install Vortex onto a server, simply copy the php file from [this link](https
 
 Next, navigate to the webshell URL in your browser and you should see the Vortex interface.
 
-<br><br>
-
+<br>
 
 ## Usage
 
@@ -45,14 +44,14 @@ To install linpeas, simpily click the photo and [linpeas](https://github.com/car
 To upload a file, click the browse button and selected the desired file. Then hit upload. Vortex will attempt to upload your file into the current directory Vortex is running in.
 
 
-
+<br>
 
 ## Contributing
 
 If you find a bug or have a suggestion for Vortex, please submit an issue or a pull request on our [GitHub repository](https://github.com/bear102/Vortex).
 
 
-
+<br>
 
 ## License
 
