@@ -18,11 +18,17 @@ Vortex is a versatile and easy-to-use PHP webshell that allows remote execution 
 - running application information
 - file upload
 
+
+
+
 ## Installation
 
 To install Vortex onto a server, simply copy the php file from [this link](https://github.com/bear102/Vortex/blob/main/vortex.php) and upload it to the server's web directory.
 
 Next, navigate to the webshell URL in your browser and you should see the Vortex interface.
+
+
+
 
 ## Usage
 
@@ -38,9 +44,15 @@ To install linpeas, simpily click the photo and [linpeas](https://github.com/car
 **File Upload**
 To upload a file, click the browse button and selected the desired file. Then hit upload. Vortex will attempt to upload your file into the current directory Vortex is running in.
 
+
+
+
 ## Contributing
 
 If you find a bug or have a suggestion for Vortex, please submit an issue or a pull request on our [GitHub repository](https://github.com/bear102/Vortex).
+
+
+
 
 ## License
 
