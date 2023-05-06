@@ -15,6 +15,7 @@ Vortex is a versatile and easy-to-use PHP webshell that allows remote execution 
 - automatic reverse shell
 - automatic linPEAS install
 - server information
+- running application information
 - file upload
 
 ## Installation
