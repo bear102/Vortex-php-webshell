@@ -3,7 +3,7 @@
 
 Vortex is a versatile and easy-to-use PHP webshell that allows remote execution of system commands. Its customizable and lightweight design provides a clean and intuitive interface for performing a variety of pentesting commands. With Vortex, users can efficiently and securely navigate through the server file system, test for reverse shell connections, install linPEAS, upload files, and much more.
 
-<img src="https://github.com/bear102/Vortex/blob/main/img/vortex.png" alt="vortex" width="800">
+<img src="https://github.com/bear102/Vortex/blob/main/img/vortex.png" alt="vortex" width="600">
 
 
 ## Features
